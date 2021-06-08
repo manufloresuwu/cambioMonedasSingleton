@@ -1,0 +1,72 @@
+Mediator/ICanalDeComunicacion.java
+ Mediator.ICanalDeComunicacion
+Mediator/Colleague.java
+ Mediator.Colleague
+Mediator/SM.java
+ Mediator.SM
+Mediator/QA.java
+ Mediator.QA
+Mediator/Skype.java
+ Mediator.Skype
+Mediator/DEV.java
+ Mediator.DEV
+Mediator/Cliente.java
+ Mediator.Cliente
+Memento/Persona.java
+ Memento.Persona
+Memento/Cliente.java
+ Memento.Cliente
+Memento/TakeCare.java
+ Memento.TakeCare
+Memento/Originator.java
+ Memento.Originator
+Memento/Memento.java
+ Memento.Memento
+Memento/BaseDeDatos.java
+ Memento.BaseDeDatos
+ChainOfResponsability/ejercicioClase/ISoftware.java
+ ChainOfResponsability.ejercicioClase.ISoftware
+ChainOfResponsability/ejercicioClase/Cliente.java
+ ChainOfResponsability.ejercicioClase.Cliente
+ChainOfResponsability/ejercicioClase/Finanzas.java
+ ChainOfResponsability.ejercicioClase.Finanzas
+ChainOfResponsability/ejercicioClase/HandlerManager.java
+ ChainOfResponsability.ejercicioClase.HandlerManager
+ChainOfResponsability/ejercicio2/Cliente.java
+ ChainOfResponsability.ejercicio2.Cliente
+ChainOfResponsability/ejercicioClase/QA.java
+ ChainOfResponsability.ejercicioClase.QA
+ChainOfResponsability/ejercicioClase/Developer.java
+ ChainOfResponsability.ejercicioClase.Developer
+ChainOfResponsability/ejercicioClase/Support.java
+ ChainOfResponsability.ejercicioClase.Support
+ChainOfResponsability/ejercicioClase/DevOp.java
+ ChainOfResponsability.ejercicioClase.DevOp
+ChainOfResponsability/ejercicio2/Persona.java
+ ChainOfResponsability.ejercicio2.Persona
+ChainOfResponsability/ejercicio2/ISoftware.java
+ ChainOfResponsability.ejercicio2.ISoftware
+ChainOfResponsability/ejercicio2/Carnetizacion.java
+ ChainOfResponsability.ejercicio2.Carnetizacion
+ChainOfResponsability/ejercicio2/Notario.java
+ ChainOfResponsability.ejercicio2.Notario
+ChainOfResponsability/ejercicio3/A2.java
+ ChainOfResponsability.ejercicio3.A2
+ChainOfResponsability/ejercicio2/Cajero.java
+ ChainOfResponsability.ejercicio2.Cajero
+ChainOfResponsability/ejercicio3/A1.java
+ ChainOfResponsability.ejercicio3.A1
+ChainOfResponsability/ejercicio3/IArray.java
+ ChainOfResponsability.ejercicio3.IArray
+ChainOfResponsability/ejercicio3/A3.java
+ ChainOfResponsability.ejercicio3.A3
+ChainOfResponsability/ejercicio3/Persona.java
+ ChainOfResponsability.ejercicio3.Persona
+ChainOfResponsability/ejercicio2/HandlerManager.java
+ ChainOfResponsability.ejercicio2.HandlerManager
+ChainOfResponsability/ejercicio3/Array.java
+ ChainOfResponsability.ejercicio3.Array
+ChainOfResponsability/ejercicio2/AyudaCliente.java
+ ChainOfResponsability.ejercicio2.AyudaCliente
+ChainOfResponsability/ejercicio3/Cliente.java
+ ChainOfResponsability.ejercicio3.Cliente
