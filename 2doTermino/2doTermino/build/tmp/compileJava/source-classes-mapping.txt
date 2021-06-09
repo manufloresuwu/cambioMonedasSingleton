@@ -70,3 +70,17 @@ ChainOfResponsability/ejercicio2/AyudaCliente.java
  ChainOfResponsability.ejercicio2.AyudaCliente
 ChainOfResponsability/ejercicio3/Cliente.java
  ChainOfResponsability.ejercicio3.Cliente
+Command/Defensa.java
+ Command.Defensa
+Command/Personaje.java
+ Command.Personaje
+Command/Disparar.java
+ Command.Disparar
+Command/Invoker.java
+ Command.Invoker
+Command/Atacar.java
+ Command.Atacar
+Command/IAccion.java
+ Command.IAccion
+Command/Cliente.java
+ Command.Cliente
