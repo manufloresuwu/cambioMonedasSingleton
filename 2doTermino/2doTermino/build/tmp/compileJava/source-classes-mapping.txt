@@ -1,86 +1,134 @@
-Mediator/ICanalDeComunicacion.java
- Mediator.ICanalDeComunicacion
-Mediator/Colleague.java
- Mediator.Colleague
-Mediator/SM.java
- Mediator.SM
-Mediator/QA.java
- Mediator.QA
 Mediator/Skype.java
  Mediator.Skype
-Mediator/DEV.java
- Mediator.DEV
-Mediator/Cliente.java
- Mediator.Cliente
+ChainOfResponsability/ejercicioClase/DevOp.java
+ ChainOfResponsability.ejercicioClase.DevOp
+ChainOfResponsability/ejercicio3/A2.java
+ ChainOfResponsability.ejercicio3.A2
+Command/Invoker.java
+ Command.Invoker
+ChainOfResponsability/ejercicioClase/Finanzas.java
+ ChainOfResponsability.ejercicioClase.Finanzas
+ChainOfResponsability/ejercicio3/IArray.java
+ ChainOfResponsability.ejercicio3.IArray
+ChainOfResponsability/ejercicio2/HandlerManager.java
+ ChainOfResponsability.ejercicio2.HandlerManager
+Memento/Memento.java
+ Memento.Memento
+Mediator/SM.java
+ Mediator.SM
+ChainOfResponsability/ejercicio2/Cajero.java
+ ChainOfResponsability.ejercicio2.Cajero
+Command/Disparar.java
+ Command.Disparar
+ChainOfResponsability/ejercicioClase/QA.java
+ ChainOfResponsability.ejercicioClase.QA
+ChainOfResponsability/ejercicio3/A3.java
+ ChainOfResponsability.ejercicio3.A3
+Memento/TakeCare.java
+ Memento.TakeCare
+ChainOfResponsability/ejercicio3/Array.java
+ ChainOfResponsability.ejercicio3.Array
+Command/Defensa.java
+ Command.Defensa
+ChainOfResponsability/ejercicio2/Persona.java
+ ChainOfResponsability.ejercicio2.Persona
+ChainOfResponsability/ejercicio2/AyudaCliente.java
+ ChainOfResponsability.ejercicio2.AyudaCliente
 Memento/Persona.java
  Memento.Persona
 Memento/Cliente.java
  Memento.Cliente
-Memento/TakeCare.java
- Memento.TakeCare
+ChainOfResponsability/ejercicioClase/HandlerManager.java
+ ChainOfResponsability.ejercicioClase.HandlerManager
+ChainOfResponsability/ejercicio3/A1.java
+ ChainOfResponsability.ejercicio3.A1
+ChainOfResponsability/ejercicio2/Cliente.java
+ ChainOfResponsability.ejercicio2.Cliente
+Mediator/QA.java
+ Mediator.QA
+ChainOfResponsability/ejercicioClase/Developer.java
+ ChainOfResponsability.ejercicioClase.Developer
+ChainOfResponsability/ejercicio3/Cliente.java
+ ChainOfResponsability.ejercicio3.Cliente
+Command/Cliente.java
+ Command.Cliente
+Observer/ejercicioClase/Persona.java
+ Observer.ejercicioClase.Persona
+State/ejercicioClase/Cpu.java
+ State.ejercicioClase.Cpu
+State/ejercicioClase/MemoriaRam.java
+ State.ejercicioClase.MemoriaRam
+ChainOfResponsability/ejercicio2/ISoftware.java
+ ChainOfResponsability.ejercicio2.ISoftware
+Command/IAccion.java
+ Command.IAccion
+Observer/ejercicioClase/NotificacionTelefonia.java
+ Observer.ejercicioClase.NotificacionTelefonia
+Mediator/ICanalDeComunicacion.java
+ Mediator.ICanalDeComunicacion
+Observer/ejercicioClase/Notificacion.java
+ Observer.ejercicioClase.Notificacion
 Memento/Originator.java
  Memento.Originator
-Memento/Memento.java
- Memento.Memento
+Observer/ejercicioClase/INotificacion.java
+ Observer.ejercicioClase.INotificacion
+Observer/ejercicioClase/ClienteRegistrado.java
+ Observer.ejercicioClase.ClienteRegistrado
+Mediator/DEV.java
+ Mediator.DEV
+Observer/ejercicioClase/Client.java
+ Observer.ejercicioClase.Client
+ChainOfResponsability/ejercicioClase/Support.java
+ ChainOfResponsability.ejercicioClase.Support
+Command/Personaje.java
+ Command.Personaje
+ChainOfResponsability/ejercicio2/Carnetizacion.java
+ ChainOfResponsability.ejercicio2.Carnetizacion
+Mediator/Colleague.java
+ Mediator.Colleague
+Mediator/Cliente.java
+ Mediator.Cliente
+Command/Atacar.java
+ Command.Atacar
+ChainOfResponsability/ejercicio3/Persona.java
+ ChainOfResponsability.ejercicio3.Persona
 Memento/BaseDeDatos.java
  Memento.BaseDeDatos
+Observer/ejercicioClase/ICliente.java
+ Observer.ejercicioClase.ICliente
+ChainOfResponsability/ejercicio2/Notario.java
+ ChainOfResponsability.ejercicio2.Notario
 ChainOfResponsability/ejercicioClase/ISoftware.java
  ChainOfResponsability.ejercicioClase.ISoftware
 ChainOfResponsability/ejercicioClase/Cliente.java
  ChainOfResponsability.ejercicioClase.Cliente
-ChainOfResponsability/ejercicioClase/Finanzas.java
- ChainOfResponsability.ejercicioClase.Finanzas
-ChainOfResponsability/ejercicioClase/HandlerManager.java
- ChainOfResponsability.ejercicioClase.HandlerManager
-ChainOfResponsability/ejercicio2/Cliente.java
- ChainOfResponsability.ejercicio2.Cliente
-ChainOfResponsability/ejercicioClase/QA.java
- ChainOfResponsability.ejercicioClase.QA
-ChainOfResponsability/ejercicioClase/Developer.java
- ChainOfResponsability.ejercicioClase.Developer
-ChainOfResponsability/ejercicioClase/Support.java
- ChainOfResponsability.ejercicioClase.Support
-ChainOfResponsability/ejercicioClase/DevOp.java
- ChainOfResponsability.ejercicioClase.DevOp
-ChainOfResponsability/ejercicio2/Persona.java
- ChainOfResponsability.ejercicio2.Persona
-ChainOfResponsability/ejercicio2/ISoftware.java
- ChainOfResponsability.ejercicio2.ISoftware
-ChainOfResponsability/ejercicio2/Carnetizacion.java
- ChainOfResponsability.ejercicio2.Carnetizacion
-ChainOfResponsability/ejercicio2/Notario.java
- ChainOfResponsability.ejercicio2.Notario
-ChainOfResponsability/ejercicio3/A2.java
- ChainOfResponsability.ejercicio3.A2
-ChainOfResponsability/ejercicio2/Cajero.java
- ChainOfResponsability.ejercicio2.Cajero
-ChainOfResponsability/ejercicio3/A1.java
- ChainOfResponsability.ejercicio3.A1
-ChainOfResponsability/ejercicio3/IArray.java
- ChainOfResponsability.ejercicio3.IArray
-ChainOfResponsability/ejercicio3/A3.java
- ChainOfResponsability.ejercicio3.A3
-ChainOfResponsability/ejercicio3/Persona.java
- ChainOfResponsability.ejercicio3.Persona
-ChainOfResponsability/ejercicio2/HandlerManager.java
- ChainOfResponsability.ejercicio2.HandlerManager
-ChainOfResponsability/ejercicio3/Array.java
- ChainOfResponsability.ejercicio3.Array
-ChainOfResponsability/ejercicio2/AyudaCliente.java
- ChainOfResponsability.ejercicio2.AyudaCliente
-ChainOfResponsability/ejercicio3/Cliente.java
- ChainOfResponsability.ejercicio3.Cliente
-Command/Defensa.java
- Command.Defensa
-Command/Personaje.java
- Command.Personaje
-Command/Disparar.java
- Command.Disparar
-Command/Invoker.java
- Command.Invoker
-Command/Atacar.java
- Command.Atacar
-Command/IAccion.java
- Command.IAccion
-Command/Cliente.java
- Command.Cliente
+State/ejercicioClase/Computadora.java
+ State.ejercicioClase.Computadora
+State/ejercicioClase/IStateComputadora.java
+ State.ejercicioClase.IStateComputadora
+State/ejercicioClase/ProgramasAbiertos.java
+ State.ejercicioClase.ProgramasAbiertos
+State/ejercicioClase/Apagado.java
+ State.ejercicioClase.Apagado
+State/ejercicioClase/Cliente.java
+ State.ejercicioClase.Cliente
+State/ejercicioClase/Reiniciar.java
+ State.ejercicioClase.Reiniciar
+State/ejercicioClase/Prendido.java
+ State.ejercicioClase.Prendido
+Strategy/IEstrategia.java
+ Strategy.IEstrategia
+Strategy/Tienda.java
+ Strategy.Tienda
+Strategy/Producto.java
+ Strategy.Producto
+Strategy/Cliente.java
+ Strategy.Cliente
+Strategy/Otonio.java
+ Strategy.Otonio
+Strategy/Primavera.java
+ Strategy.Primavera
+Strategy/Invierno.java
+ Strategy.Invierno
+Strategy/Verano.java
+ Strategy.Verano
