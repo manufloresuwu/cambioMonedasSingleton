@@ -1,0 +1,34 @@
+Visitor/Notepad.java
+ Visitor.Notepad
+Visitor/Cliente.java
+ Visitor.Cliente
+Visitor/IEditor.java
+ Visitor.IEditor
+Visitor/IVisitor.java
+ Visitor.IVisitor
+Visitor/Visitor.java
+ Visitor.Visitor
+Visitor/Word.java
+ Visitor.Word
+Visitor/Sublime.java
+ Visitor.Sublime
+Adapter/Refrigerador.java
+ Adapter.Refrigerador
+Adapter/IAdapterEmp1.java
+ Adapter.IAdapterEmp1
+Adapter/Computadora.java
+ Adapter.Computadora
+Adapter/Tablet.java
+ Adapter.Tablet
+Adapter/Lavadora.java
+ Adapter.Lavadora
+Adapter/Televisor.java
+ Adapter.Televisor
+Adapter/IAdapterEmp2.java
+ Adapter.IAdapterEmp2
+Adapter/Adapter.java
+ Adapter.Adapter
+Adapter/Celular.java
+ Adapter.Celular
+Adapter/Cliente.java
+ Adapter.Cliente
